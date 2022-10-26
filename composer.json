@@ -16,6 +16,6 @@
   },
   "license": "GPL-2.0+",
   "require": {
-    "phayes/geophp": "^1.2"
+    "itamair/geophp": "^1.2"
   }
 }
